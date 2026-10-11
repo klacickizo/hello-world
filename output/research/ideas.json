@@ -1,0 +1,165 @@
+{
+  "title": "Next launch for The Connection Code: women's relationship problems",
+  "market": "Nigeria / African diaspora",
+  "researched": "2026-10-03",
+  "ideas": [
+    {
+      "id": "MAR-01",
+      "niche": "Marriage",
+      "buyer": "Married women (25-45) who have just found chats, photos or proof that their husband is cheating",
+      "title": "I Found The Chats: What To Do After You Discover He's Cheating",
+      "problem": "She has just seen the messages. She can't tell her family (they'll say 'all men cheat, endure'), she can't tell her friends, and she doesn't know whether to confront, stay, leave, or protect her health first.",
+      "price_ngn": 3000,
+      "price_usd": 7,
+      "scores": {"P": 5, "W": 4, "G": 5},
+      "score_notes": {
+        "P": "Same cry for help recurring on Nairaland across ~15 years of thread IDs (659353 to 8094593), incl. 'I Caught My Husband ... Pls Advise Me!' and 'How Do I Cope With Cheating Husband?'",
+        "W": "Women already pay N5,000-50,000 per counselling session; PIs and spiritual 'remedies' are also bought. Named price exists, but no direct ebook traction observed, so 4 not 5",
+        "G": "Affair-recovery reading lists are all US/Canadian authors (Glass, Spring, Snyder/Baucom); local advice in circulation is documented as harmful ('ashawo vibes', 'a cheating husband is better than a dead one', 'confess righteousness out of him')"
+      },
+      "substitute": "Marriage counselling N5,000-50,000/session (Nigeria); private investigators; pastors; traditional/spiritual 'remedies'",
+      "existing": "US affair-recovery books (Glass, Spring, Snyder et al.); a Selar novel about a cheating husband (fiction, not help); generic 'Husband Manual' Selar ebook",
+      "gap": "Nobody gives a Nigerian wife a calm, step-by-step plan for the first 72 hours and 30 days after discovery: protect her health and money, what to say when she confronts him, how to answer family who tell her to endure, and how to decide stay or leave on her own terms.",
+      "contents": [
+        "The first 72 hours: what to do before you say a word",
+        "Protect yourself first: health test, money, documents",
+        "Confronting him: the exact words, and what his reaction tells you",
+        "'All men cheat': answering family, in-laws and the pastor",
+        "Stay or leave: a decision you make, not one made for you",
+        "If you stay: the conditions that make rebuilding possible",
+        "If you leave: the practical first steps",
+        "Safety and help: when it is more than cheating"
+      ],
+      "hook": "You found the chats. Before you confront him, read this.",
+      "channel": "Facebook (marriage groups + Meta ads, women 25-45) -> WhatsApp -> Selar",
+      "watch_out": "Must never counsel staying in abuse; include STI-testing advice framed medically-neutral, abuse/helpline pointers, and no 'get him back' manipulation tactics. Ad copy must not assert the viewer's situation ('Your husband is cheating') - use scene-based hooks.",
+      "evidence": [
+        {"type": "Problem post", "detail": "'Husband Cheating' (thread 659353), 'How To Handle A Cheating Husband' (1314927) - Nairaland /family", "source": "https://www.nairaland.com/659353/husband-cheating"},
+        {"type": "Problem post", "detail": "'I Caught My Husband Digging Our Neighbors Wife Through Our CCTV. Pls Advise Me!' (7141883); 'How Do I Cope With Cheating Husband?' (8094593); 'Should I Forgive My Husband For Cheating?' (8025469)", "source": "https://www.nairaland.com/8094593/how-cope-cheating-husband/1"},
+        {"type": "Problem post", "detail": "'I Caught My Husband Chatting With A Lady On Facebook & WhatsApp & Confronted Him' - 11+ pages (3957115)", "source": "https://www.nairaland.com/3957115/caught-husband-chatting-lady-facebook/10"},
+        {"type": "Substitute market", "detail": "Marriage counselling in Nigeria N5,000-50,000 per session", "source": "https://marriageinnigeria.ng/cost-of-marriage-counseling/"},
+        {"type": "Bad incumbent advice", "detail": "Clergyman: wives need 'ashawo vibes' to stop husbands cheating (May 2024); pastor: 'confess righteousness out of him'", "source": "https://m.lindaikejisblog.com/2024/5/you-need-to-have-ashawo-vibes-to-stop-your-husband-from-cheating-nigerian-clergyman-tells-married-women-video.html"},
+        {"type": "Bad incumbent advice", "detail": "'Stay with your husband no matter what, a cheating husband is better than a dead one' (Sept 2026)", "source": "https://www.ghanamma.com/2026/09/26/stay-with-your-husband-and-family-no-matter-what-a-cheating-husband-is-better-than-a-d3ad-one-nigerian-woman-advises-married-women-3/"},
+        {"type": "Foreign incumbents", "detail": "Affair-recovery reading lists: all North American authors", "source": "https://beyondaffairs.com/best-books-for-healing-after-infidelity/"}
+      ]
+    },
+    {
+      "id": "MAR-02",
+      "niche": "Marriage",
+      "buyer": "Wives whose husband takes his mother's side or whose in-laws interfere",
+      "title": "His Mother, Your Marriage: Scripts for In-Law Boundaries",
+      "problem": "Her mother-in-law interferes, her husband won't stand up for her, and any complaint makes her the 'bad wife'.",
+      "price_ngn": 2500,
+      "price_usd": 6,
+      "scores": {"P": 5, "W": 3, "G": 3},
+      "score_notes": {
+        "P": "Nairaland recurrence from thread 9548 ('How Long Can Your Mother-In-Law Stay With You?') to 7575793, plus a large Quora cluster of near-identical questions",
+        "W": "No in-law-specific price found; only general counselling spend. Capped at 3",
+        "G": "Free advice is principle-only ('better to lose an argument than the relationship'); gap for scripts inferred, so capped at 3"
+      },
+      "substitute": "General marriage counselling; pastors; family mediation",
+      "existing": "Free forum and Quora advice; Western in-law books (not checked this run)",
+      "gap": "Word-for-word scripts for getting a Nigerian husband to set the boundary himself, without the wife being cast as the villain.",
+      "contents": ["Why he takes her side", "The conversation with him first", "Scripts for the visit that won't end", "When she criticises your cooking, children or body", "Money requests from his family", "When it becomes a threat to the marriage"],
+      "hook": "You married him, not his mother. Here's how to say it without starting a war.",
+      "channel": "Facebook marriage groups, WhatsApp",
+      "watch_out": "Avoid demonising mothers-in-law; faith framing matters.",
+      "evidence": [
+        {"type": "Problem post", "detail": "'How Long Can Your Mother-In-Law Stay With You?' (9548); 'My Husband And Mother In Law Are Very Close that it makes me uncomfortable' (649374); 'Problem With My Wife, Mother, And Mother Inlaw' (7575793)", "source": "https://www.nairaland.com/649374/husband-mother-law-very-close"},
+        {"type": "Problem post", "detail": "Quora: 'My marriage is getting ruined because of my mother in law. And my husband is unable to see it. What should I do?'", "source": "https://husbandsandwives.quora.com/My-marriage-is-getting-ruined-because-of-my-mother-in-law-And-my-husband-is-unable-to-see-it-What-should-I-do"}
+      ]
+    },
+    {
+      "id": "LOV-01",
+      "niche": "Love",
+      "buyer": "Women 20-35 after a breakup who can't stop thinking about him",
+      "title": "Stop Checking His Status: A 21-Day Workbook for Moving On",
+      "problem": "She keeps checking his WhatsApp status and replaying everything, and can't move on.",
+      "price_ngn": 2500,
+      "price_usd": 6,
+      "scores": {"P": 5, "W": 3, "G": 3},
+      "score_notes": {
+        "P": "Recurring across Nairaland from thread 8682 ('My Boyfriend Doesn't Care About Me But I Can't Stop Thinking About Him') to 8347707, with 'Help!!' threads",
+        "W": "No price found that these buyers already pay; heavy free content. Capped at 3",
+        "G": "Saturated with free TikTok/forum tips; a workbook format gap is plausible but inferred, so 3"
+      },
+      "substitute": "Free TikTok and forum advice",
+      "existing": "Forum lists like '15 Tips On How To Stop Thinking About Someone'",
+      "gap": "A daily workbook to sit with tonight, rather than a 40-part TikTok series.",
+      "contents": ["Days 1-3: no contact, without the relapse", "Days 4-7: the replay loop", "Days 8-14: what you actually lost", "Days 15-21: the pattern you won't repeat", "When it's more than heartbreak"],
+      "hook": "It's day 1. Don't check his status.",
+      "channel": "TikTok, Instagram",
+      "watch_out": "Needs a mental-health support pointer; no 'get your ex back' promises.",
+      "evidence": [
+        {"type": "Problem post", "detail": "'Help!! I Need To Stop Thinking About Him' (5133245); 'Help. I Can't Stop Thinking Of My Ex' (2442542)", "source": "https://www.nairaland.com/5133245/need-stop-thinking-him/4"},
+        {"type": "Problem post", "detail": "'My Boyfriend Doesn't Care About Me But I Can't Stop Thinking About Him. What Should I Do?' (8682)", "source": "https://www.nairaland.com/8682/boyfriend-doesnt-care-me-cant"}
+      ]
+    },
+    {
+      "id": "MAR-03",
+      "niche": "Marriage",
+      "buyer": "Wives whose husband has gone silent or emotionally distant",
+      "title": "He Stopped Talking To Me",
+      "problem": "Her husband barely talks to her, and she doesn't know how to reach him without a fight.",
+      "price_ngn": 2500,
+      "price_usd": 6,
+      "scores": {"P": 4, "W": 4, "G": 3},
+      "score_notes": {
+        "P": "First-person posts ('My Husband And I Are Not Talking - And I Don't Know What To Do', thread 816337), but fewer threads found than for cheating or in-laws",
+        "W": "Counselling N5,000-50,000 per session is the substitute spend",
+        "G": "Western advice sites dominate (marriage.com, CCEF); local gap inferred, so 3"
+      },
+      "substitute": "Marriage counselling N5,000-50,000/session",
+      "existing": "marriage.com and US counselling blogs",
+      "gap": "Scripts for reopening conversation with a Nigerian husband who goes silent.",
+      "contents": ["Why he goes quiet", "What not to say", "The opening sentence", "When silence is punishment", "Getting help together"],
+      "hook": "He's in the same house but you feel alone.",
+      "channel": "Facebook marriage groups",
+      "watch_out": "Distinguish silence from control or abuse; support pointer needed.",
+      "evidence": [
+        {"type": "Problem post", "detail": "'My Husband And I Are Not Talking - And I Don't Know What To Do' (816337)", "source": "https://www.nairaland.com/816337/husband-not-talking-dont-know"},
+        {"type": "Substitute market", "detail": "Marriage counselling N5,000-50,000 per session", "source": "https://marriageinnigeria.ng/cost-of-marriage-counseling/"}
+      ]
+    },
+    {
+      "id": "MAR-04",
+      "niche": "Marriage",
+      "buyer": "Wives whose husband won't give enough housekeeping money",
+      "title": "He Earns, I Beg: Talking Money With a Stingy Husband",
+      "problem": "Her husband never gives enough for upkeep and she is starting to dislike him.",
+      "price_ngn": 2500,
+      "price_usd": 6,
+      "scores": {"P": 3, "W": 3, "G": 3},
+      "score_notes": {
+        "P": "Only one clear help-seeking thread found this run ('How Does A Woman Cope With Stingy Husband?', 2386209)",
+        "W": "No direct price found",
+        "G": "Inferred"
+      },
+      "substitute": "None identified",
+      "existing": "Forum advice ('get a job')",
+      "gap": "Scripts for raising housekeeping money without a fight.",
+      "contents": ["Why money talks fail", "The budget conversation", "Your own income", "When money is control"],
+      "hook": "Asking for food money shouldn't feel like begging.",
+      "channel": "Facebook groups",
+      "watch_out": "Financial control can be abuse; support pointer needed.",
+      "evidence": [
+        {"type": "Problem post", "detail": "'How Does A Woman Cope With Stingy Husband?' (2386209)", "source": "https://www.nairaland.com/2386209/how-does-woman-cope-stingy"},
+        {"type": "Problem post", "detail": "'How To Manage Your Money As A Married Woman' (643680)", "source": "https://www.nairaland.com/643680/how-manage-money-married-woman"}
+      ]
+    }
+  ],
+  "rejected": [
+    {"title": "Relaunch He Won't Make It Official as-is", "reason": "Real but chronic problem (she can tolerate it for months); 4%+ CTR with 0 sales at N4,500. Fix price and funnel before judging the topic"},
+    {"title": "Small Matter, Big Fight as the next launch", "reason": "Mass problem but low urgency - couples live with small fights; weak buy-tonight trigger"},
+    {"title": "The Money You Gave Him as the next launch", "reason": "Regret about money already gone; pain is in the past, so weaker urgency"},
+    {"title": "Your Singleness Is Not A Spiritual Problem for ads", "reason": "Religion-adjacent ad risk on Meta and hostile comments; better sold organically"},
+    {"title": "Will He Still Want Me With A Child? as the next launch", "reason": "Strong pain but a narrower audience (single mothers who are dating)"},
+    {"title": "Trying to conceive / fertility guide", "reason": "Huge pain, but requires medical claims - disqualified"},
+    {"title": "How to stop him cheating / get him back", "reason": "Manipulation framing - reframed into MAR-01 (what to do after discovery)"}
+  ],
+  "market_notes": [
+    "Acute-crisis problems (just found out) convert better on cold ads than chronic ones (still waiting), because the buyer wants help tonight.",
+    "Price the first product at N2,500-3,000 with a $6-7 diaspora price; N4,500 for an unknown brand stalled.",
+    "Meta ads must not assert the viewer's personal situation; use scene-based hooks."
+  ]
+}
