@@ -1,0 +1,30 @@
+{
+ "effects": [
+  {
+   "fx": "backdrop-word",
+   "start": 1.9,
+   "end": 4.1,
+   "text": "MAPS"
+  },
+  {
+   "fx": "spotlight",
+   "start": 12.2,
+   "end": 15.9,
+   "text": "INVISIBLE?"
+  },
+  {
+   "fx": "glass-widgets",
+   "start": 18.6,
+   "end": 22.7,
+   "look": "simple",
+   "title": "Google Maps",
+   "text": "#1",
+   "sub": "in your|area",
+   "bar": "Checking profile",
+   "label": "   reviews \u00b7 photos",
+   "name": " ",
+   "handle": " ",
+   "pill": "Follow for |more tips"
+  }
+ ]
+}
